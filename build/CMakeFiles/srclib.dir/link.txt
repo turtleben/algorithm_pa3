@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libsrclib.a  CMakeFiles/srclib.dir/src/circuit.cpp.o CMakeFiles/srclib.dir/src/graph.cpp.o
+/usr/bin/ranlib ../lib/libsrclib.a
